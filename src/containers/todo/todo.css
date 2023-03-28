@@ -1,0 +1,15 @@
+.card_container{
+    /* border: 2px solid silver; */
+    box-shadow: 5px 5px 20px silver;
+    border-radius: 8px;
+    width: 40%;
+    height: 50vh;
+    margin: auto;
+}
+
+.card_title{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+
+}
